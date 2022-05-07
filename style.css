@@ -1,0 +1,36 @@
+html{
+	background-color: black ;
+}
+
+body{
+	background-color: #cef196;
+	border: 2px solid white;
+}
+
+#titulo-principal{
+	text-align: center;
+	text-decoration: underline;
+}
+
+#subtitulo{
+	text-align: center;
+}
+
+#noticias{
+	margin-right: 40px;
+	margin-left: 40px;
+	padding: 10px;
+}
+
+.FAST{
+	text-align: justify;
+	color: black;
+}
+
+.noticia{
+	border-bottom: 1px solid black;
+}
+
+#ultima-noticia{
+	border-bottom: none;
+}
